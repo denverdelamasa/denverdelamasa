@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Denver De La Masa
+# 👋 Hi, I'm Denver Dela Masa
 
 > “I am always doing what I cannot do yet, in order to learn how to do it.”  
 > — Vincent van Gogh
