@@ -42,7 +42,6 @@ Outside of code, you’ll find me creating dynamic character illustrations—cre
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=denverdelamasa&show_icons=true&theme=radical" alt="Denver's GitHub Stats" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=denverdelamasa&theme=radical" alt="Denver's GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denverdelamasa&layout=compact&theme=radical" alt="Denver's Top Languages"/>
 </p>
 
