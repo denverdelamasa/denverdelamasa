@@ -28,7 +28,7 @@ Outside of code, you’ll find me creating dynamic character illustrations—cre
 
 - [🌟 My Portfolio (portfolio-v2)](https://github.com/denverdelamasa/portfolio-v2)  
   My current, ever-evolving portfolio website!  
-  [Live Demo](https://denver.delamasa.vercel.app)
+  [Live Demo](https://denverdelamasa.vercel.app)
 
 - [🍃 MERN Stack Template](https://github.com/denverdelamasa/mern-stack)  
   A template project where I learned the MERN stack from YouTube.
