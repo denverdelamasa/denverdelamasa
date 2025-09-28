@@ -24,20 +24,6 @@ Outside of code, you’ll find me creating dynamic character illustrations—cre
 
 ---
 
-### 🚀 Featured Projects
-
-- [🌟 My Portfolio (portfolio-v2)](https://github.com/denverdelamasa/portfolio-v2)  
-  My current, ever-evolving portfolio website!  
-  [Live Demo](https://denverdelamasa.vercel.app)
-
-- [🍃 MERN Stack Template](https://github.com/denverdelamasa/mern-stack)  
-  A template project where I learned the MERN stack from YouTube.
-
-- [🐾 PawsNClaws (archived)](https://github.com/denverdelamasa/PawsNClaws-archive)  
-  My discontinued but memorable capstone project.
-
----
-
 ### 🏆 GitHub Stats
 
 <p align="center">
