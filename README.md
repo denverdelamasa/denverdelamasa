@@ -16,3 +16,5 @@
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://denverdelamasa.vercel.app)
 
 I dont read emails. I mostly do my work with the people I know irl.
+
+also my schedule is packed!
